@@ -92,7 +92,7 @@
     "reflect-metadata": "^0.1.13",
     "rimraf": "^4.0.5",
     "rxjs": "^7.8.0",
-    "sqlite3": "^5.1.4",
+    "sqlite3": "^5.1.5",
     "stripe": "^11.6.0",
     "swagger-ui-express": "^4.3.0",
     "tslib": "^2.3.0",
