@@ -73,7 +73,7 @@
     "express-session": "^1.17.3",
     "fabric-ca-client": "^2.2.16",
     "fabric-client": "^1.4.20",
-    "fabric-network": "^2.2.16",
+    "fabric-network": "^2.2.18",
     "helmet": "^6.0.1",
     "ioredis": "^5.2.4",
     "joi": "^17.7.0",
