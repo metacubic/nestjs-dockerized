@@ -29,7 +29,7 @@
     "@casl/ability": "^6.3.3",
     "@grpc/grpc-js": "^1.8.0",
     "@grpc/proto-loader": "^0.7.4",
-    "@nestjs/axios": "^1.0.1",
+    "@nestjs/axios": "^2.0.0",
     "@nestjs/bull": "^0.6.2",
     "@nestjs/cli": "^9.1.8",
     "@nestjs/common": "^9.2.1",
