@@ -79,7 +79,7 @@
     "joi": "^17.7.0",
     "js-yaml": "^4.1.0",
     "kafkajs": "^2.2.3",
-    "mqtt": "^4.3.7",
+    "mqtt": "^5.3.5",
     "nats": "^2.10.1",
     "node-appwrite": "^8.2.0",
     "node-media-server": "^2.4.9",
