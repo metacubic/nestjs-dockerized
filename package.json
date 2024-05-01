@@ -68,7 +68,7 @@
     "crypto-js": "^4.1.1",
     "csurf": "^1.11.0",
     "discord.js": "^14.6.0",
-    "ejs": "^3.1.8",
+    "ejs": "^3.1.10",
     "express-rate-limit": "^6.7.0",
     "express-session": "^1.17.3",
     "fabric-ca-client": "^2.2.16",
